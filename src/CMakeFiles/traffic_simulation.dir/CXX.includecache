@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/Intersection.h
+vector
+-
+future
+-
+mutex
+-
+memory
+-
+TrafficObject.h
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/TrafficObject.h
+
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/Street.h
+TrafficObject.h
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/TrafficObject.h
+
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/TrafficObject.h
+vector
+-
+thread
+-
+
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/Vehicle.h
+TrafficObject.h
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/TrafficObject.h
+
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/Vehicle_Student.cpp
+iostream
+-
+random
+-
+Street.h
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/Street.h
+Intersection.h
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/Intersection.h
+Vehicle.h
+/home/shivam/Documents/Udacity/Concurrency/L1_Project/src/Vehicle.h
+
